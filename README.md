@@ -1,4 +1,4 @@
-# Credit-Card-Customer-Segmenation
+# Credit-Card-Customer-Segmentation
 Given: The dataset contains 8500 customers and their activity over a 6-month period. 
 
 Business Questions: find the most useful customer segmentation and propose solution for business problems to improve the marketing campaigns of the company.
