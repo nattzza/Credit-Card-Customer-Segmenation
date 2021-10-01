@@ -5,3 +5,5 @@ Business Questions: find the most useful customer segmentation and propose solut
 
 This is an unsupervised machine learnign problems to seek for the most useful customer segmentation to understand customer´s behaviour in order to propose marketing campaigns 
 to the most useful customer segments to provide business values. 
+
+[PDF presentation file](https://github.com/nattzza/Credit-Card-Customer-Segmenation/blob/main/CreditCardCustomerSegmentation.pdf)
